@@ -6,8 +6,8 @@ A Web3 platform that empowers YouTube creators to securely register their conten
 
 2. Revenue Accountability: Automatically track and distribute ad revenue and IP royalties to investors.
 
-For Creators: Protect your content, monetize remixes, and attract funding.
-For Investors: Back creators with confidence through verifiable revenue streams.
+- For Creators: Protect your content, monetize remixes, and attract funding.
+- For Investors: Back creators with confidence through verifiable revenue streams.
 =======
 ## Key features
 1. Social Login Identity Fusion
